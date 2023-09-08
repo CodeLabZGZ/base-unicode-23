@@ -1,0 +1,2 @@
+// el único fin de este fichero es que la carpeta de soluciones no sea vacía para que esta aparezca en
+// el repositorio de github para ahorraros problemas durante el unicode :D
