@@ -5,7 +5,7 @@
 #     Autores: Francisco Javier Pizarro 821259                                 #
 #     Comms:                                                                   #
 #           Este archivo contiene el esqueleto para facilitar la implementación#
-#           de la solución del problema del Unicode 23                         #
+#           de la solución del 1º problema del Unicode 23                      #
 #           Modificar el contenido de la función solve_problem_instance        #
 #     Use:  python3 codigo_base.py                                             #
 #                                                                              #
